@@ -1,0 +1,7 @@
+# Archivos generados al compilar el módulo de Cython
+build/
+__pycache__/
+huffman_cython.c
+huffman_cython*.so
+huffman_cython*.pyd
+*.o
